@@ -1,1 +1,2 @@
+New first sentence added from the github.
 A project is simply a directory containing some files. These files can for example have code in them. You can turn a directory into a Git project by running the command git init inside it. This will allow running git commands inside the folder. The initialization command will create a subfolder called .git. This folder stores all sorts of information about the project in the directory it is located in.
